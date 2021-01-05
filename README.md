@@ -5,11 +5,10 @@ In this repository, we explore a couple of practical approaches for solving Open
 <!-- blank line -->
 <figure class="video_container">
   <video controls="true" allowfullscreen="false">
-    <source src="./media/original.mp4" type="video/mp4">
+    <source src="media/original.mp4" type="video/mp4">
   </video>
 </figure>
 <!-- blank line -->
-
 
 **Content:**
 
