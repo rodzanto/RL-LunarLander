@@ -2,13 +2,7 @@
 
 In this repository, we explore a couple of practical approaches for solving OpenAI's LunarLander-v2 gym [https://gym.openai.com/envs/LunarLander-v2/](https://gym.openai.com/envs/LunarLander-v2/).
 
-<!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="false">
-    <source src="media/original.mp4" type="video/mp4">
-  </video>
-</figure>
-<!-- blank line -->
+<img src="media/original.gif" alt="drawing" width="400"/>
 
 **Content:**
 
