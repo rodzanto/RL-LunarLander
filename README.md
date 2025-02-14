@@ -1,6 +1,6 @@
 # Reinforcement Learning - Lunar Lander practical samples
 
-In this repository, we explore a couple of practical approaches for solving OpenAI's LunarLander-v2 gym [https://gym.openai.com/envs/LunarLander-v2/](https://gym.openai.com/envs/LunarLander-v2/).
+In this repository, we explore a couple of practical approaches for solving OpenAI's LunarLander-v2 gym [https://gym.openai.com/envs/LunarLander-v3/](https://gym.openai.com/envs/LunarLander-v3/).
 
 <img src="media/original.gif" alt="drawing" width="400"/>
 
